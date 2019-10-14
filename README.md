@@ -1,2 +1,2 @@
-# DNA-Shield
+# DNA Shield
 User Script for Tampermonkey
